@@ -3,7 +3,8 @@
     "username": "library",
     "password": "123456Ad!",
     "database": "library",
-    "host": "127.0.0.1",
+    "host": "10.20.3.72",
+    "host": "10.20.4.193",
     "dialect": "mysql"
   },
   "test": {
