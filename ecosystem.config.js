@@ -7,4 +7,4 @@ module.exports = {
           ]
 };
 
-discord notif
+discord notif app
