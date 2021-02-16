@@ -6,5 +6,3 @@ module.exports = {
            }
           ]
 };
-
-discord notif app
